@@ -1,0 +1,21 @@
+EcoCharge
+Aplicativo de Transporte Sustentável e Eletrificação de Veículos
+
+O objetivo do nosso projeto é desenvolver um aplicativo inovador que promova o uso de veículos elétricos (VE) ao facilitar o acesso a pontos de carregamento e otimizar o planejamento de viagens. A ideia central é proporcionar uma experiência intuitiva e prática para proprietários de VEs, ajudando-os a encontrar postos de carregamento próximos, verificar sua disponibilidade em tempo real, e acessar informações detalhadas, como tipos de conectores, velocidade de carregamento, horário de funcionamento e formas de pagamento.
+
+Funcionalidades principais:
+
+* Localização de Postos de Carregamento:
+O aplicativo usará a localização do usuário para mostrar os postos de carregamento mais próximos, exibindo informações de cada ponto de carregamento, como distância, ocupação atual e tipo de carregamento.
+
+* Disponibilidade e Reservas:
+ Será possível verificar a disponibilidade de cada ponto em tempo real. Para maior conveniência, a opção de reservar um ponto, onde aplicável, também poderá ser oferecida.
+
+* Planejador de Viagem para VEs:
+Com um planejador de viagem, o usuário poderá inserir seu destino e o aplicativo sugerirá as melhores rotas com pontos de carregamento estratégicos ao longo do trajeto. Essa funcionalidade considerará a autonomia do veículo e a infraestrutura de carregamento ao longo do percurso.
+
+* Perfis e Histórico de Carregamento:
+Os usuários poderão criar perfis, registrar o histórico de carregamentos e até acompanhar estatísticas de uso, como emissões evitadas, ajudando a conscientizar sobre o impacto ambiental positivo do uso de VEs.
+
+* Feedback e Avaliações:
+O aplicativo permitirá aos usuários avaliar os postos de carregamento, o que incentivará uma rede de carregamento mais eficiente e confiável, orientada pela experiência real dos motoristas.
