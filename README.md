@@ -22,6 +22,8 @@
 
 **EcoCharge** é um projeto de aplicativo de transporte sustentável desenvolvido por estudantes da **FIAP** como parte da Global Solution. Este aplicativo é voltado para promover o uso de veículos elétricos (VEs) ao facilitar o acesso a pontos de carregamento e otimizar o planejamento de viagens. Nossa equipe de cinco integrantes está comprometida em criar uma experiência prática e intuitiva para motoristas de VEs, contribuindo com um futuro mais sustentável.
 
+[Link do PDF com a apresentação da Global Solution.](Utils/GS2.pdf)
+
 ## 📜 Equipe
 
 | Integrante                       | RM     | Turma  |
