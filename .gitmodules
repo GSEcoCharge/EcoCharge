@@ -1,21 +1,27 @@
 [submodule "QA"]
 	path = QA
 	url = https://github.com/GSEcoCharge/QA
+	branch = main
 [submodule "Mobile"]
 	path = Mobile
 	url = https://github.com/GSEcoCharge/Mobile
+	branch = main
 [submodule ".Net"]
 	path = .Net
 	url = https://github.com/GSEcoCharge/.Net
+	branch = main
 [submodule "Java"]
 	path = Java
 	url = https://github.com/GSEcoCharge/Java
+	branch = main
 [submodule "Database"]
 	path = Database
 	url = https://github.com/GSEcoCharge/Database
 [submodule "IOT"]
 	path = IOT
 	url = https://github.com/GSEcoCharge/IOT
+	branch = main
 [submodule "DevOps"]
 	path = DevOps
 	url = https://github.com/GSEcoCharge/DevOps
+	branch = main
