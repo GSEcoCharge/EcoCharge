@@ -21,3 +21,6 @@
 	path = DevOps
 	url = https://github.com/GSEcoCharge/DevOps
 	branch = main
+[submodule "Mobile/eco-charge"]
+	path = Mobile/eco-charge
+	url = https://github.com/GSEcoCharge/Mobile
