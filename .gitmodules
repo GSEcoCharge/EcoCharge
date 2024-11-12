@@ -24,3 +24,4 @@
 [submodule "Mobile/eco-charge"]
 	path = Mobile/eco-charge
 	url = https://github.com/GSEcoCharge/Mobile
+	branch = main
