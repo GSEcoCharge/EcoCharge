@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Utils/Logo/EcoChargeDarkLogoRounded.png">
-        <img alt="Logo da EcoCharge" src="Utils/Logo/EcoChargeLogoRounded.png" width="300">
+        <img alt="Logo da EcoCharge" src="Utils/Logo/LogoRounded.png" width="300">
     </picture>
 </p>
 
