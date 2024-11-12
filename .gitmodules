@@ -3,7 +3,7 @@
 	url = https://github.com/GSEcoCharge/QA
 	branch = main
 [submodule "Mobile"]
-	path = Mobile/ecocharge
+	path = Mobile/eco-charge
 	url = https://github.com/GSEcoCharge/Mobile
 	branch = main
 [submodule ".Net"]
