@@ -2,7 +2,7 @@
 	path = QA
 	url = https://github.com/GSEcoCharge/QA
 	branch = main
-[submodule "Mobile"]
+[submodule "Mobile/eco-charge"]
 	path = Mobile/eco-charge
 	url = https://github.com/GSEcoCharge/Mobile
 	branch = main
