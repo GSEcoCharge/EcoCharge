@@ -2,10 +2,6 @@
 	path = QA
 	url = https://github.com/GSEcoCharge/QA
 	branch = main
-[submodule ".Net"]
-	path = .Net
-	url = https://github.com/GSEcoCharge/.Net
-	branch = main
 [submodule "Java"]
 	path = Java
 	url = https://github.com/GSEcoCharge/Java
