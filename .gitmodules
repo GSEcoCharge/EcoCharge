@@ -20,6 +20,7 @@
 [submodule "Mobile/eco-charge"]
 	path = Mobile/eco-charge
 	url = https://github.com/GSEcoCharge/Mobile
+	branch = main
 [submodule ".Net"]
 	path = .Net
 	url = https://github.com/GSEcoCharge/.Net
